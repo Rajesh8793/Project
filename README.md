@@ -23,7 +23,14 @@ Welcome to the E-Notes Project! This is a Java web application for managing note
 - 🎨 Bootstrap
 ## Screenshots
 
-![Screenshot](image/1.png)
+![Screenshot](/image/p2.png)
+![Screenshot](/image/p2.png)
+![Screenshot](/image/p2.png)
+![Screenshot](/image/p2.png)
+![Screenshot](/image/p2.png)
+![Screenshot](/image/p2.png)
+![Screenshot](/image/p2.png)
+
 
 ## 📋 Prerequisites
 
